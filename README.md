@@ -19,4 +19,4 @@ Pretendemos testar uma solução digital que facilite a compilação dos dados.
 ![Rascunho A](docs/02.png)
 ![Rascunho A](docs/03.png)
 ![Rascunho A](docs/04.png)
-![Rascunho A](docs/22.png)
+![Rascunho A](docs/002-gen.png)
