@@ -1,5 +1,4 @@
-# contador
-Contador digital para smartphones
+# Contador digital para smartphones
 
 A Cicloiguaçu realiza históricas contagens na região da Av. 7 de Setembro e República Argentina.
 Pretendemos testar uma solução digital que facilite a compilação dos dados.
